@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @Kaafdagi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ 👋 Hi, I’m Betul
+ 
+I am a cybersecurity analyst with a strong passion for protecting digital spaces and solving difficult security problems.
+I have experience in areas like cyber defense, phishing, malware analysis, and incident response.
+
+I work well in fast-paced environments and enjoy collaborating with teams to keep organizations safe. 
+I love using new technology to solve challenges and am always looking to learn more. Let’s connect and make the digital world a safer place together!
+
+
 
 <!---
 Kaafdagi/Kaafdagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
