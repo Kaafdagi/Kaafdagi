@@ -11,7 +11,13 @@ I love using new technology to solve challenges and am always looking to learn m
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" />
 </a>
 
+# Projects
 
+- [**VIRTUAL-HOME-SOC**](https://github.com/Kaafdagi/VIRTUAL-HOME-SOC)
+  HOME SOC Setup With Windows-Linux(Debian) -Splunk Enterprice -Universal Forwarder-Trend Micro
+
+- [**SOC Environment with Atomic Red Team**](https://github.com/Kaafdagi/SOC-Environment-with-Atomic-Red-Team)  
+  Executing Atomic Red Team tests to evaluate detection capabilities within a controlled environment. Threat Simulation and Detection Using Splunk and Trend Micro.
 
 
 
