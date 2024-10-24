@@ -4,7 +4,9 @@ I am a cybersecurity analyst with a strong passion for protecting digital spaces
 I have experience in areas like cyber defense, phishing, malware analysis, and incident response.
 
 I work well in fast-paced environments and enjoy collaborating with teams to keep organizations safe. 
-I love using new technology to solve challenges and am always looking to learn more. Let’s connect and make the digital world a safer place together!
+I love using new technology to solve challenges and am always looking to learn more. 
+
+Let’s connect and make the digital world a safer place together!
 
 
 <a href="https://www.linkedin.com/in/betul-arslan-/)/">
