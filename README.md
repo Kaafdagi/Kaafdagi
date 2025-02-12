@@ -21,9 +21,10 @@ Let’s connect and make the digital world a safer place together!
 - [**SOC Environment with Atomic Red Team**](https://github.com/Kaafdagi/SOC-Environment-with-Atomic-Red-Team)  
   Executing Atomic Red Team tests to evaluate detection capabilities within a controlled environment. Threat Simulation and Detection Using Splunk and Trend Micro.
 
-
-
-<!---
+- [**Splunk Project: Custom App | Dashboards | Advanced Search**](https://github.com/Kaafdagi/Splunk-Project)
+  This project is part of my ongoing journey to explore and master Splunk Enterprise, including onboarding data, building advanced search queries, creating custom apps, and designing comprehensive dashboards.
+  
+  <!---
 Kaafdagi/Kaafdagi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
